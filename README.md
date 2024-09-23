@@ -1,28 +1,28 @@
-**Login Page - Android Studio**
+# **Login Page - Android Studio**
 
-***Project Overview***
-This project is a simple login page developed in Android Studio. It simulates a basic login process with hard-coded credentials and toast notifications to display success or error messages.
+## <u>Project Overview</u>
+This project is a simple login page developed in Android Studio.
 
-***Features***
-
-1. Hard-coded Credentials: A pre-defined username and password are used for authentication.
-2. Toast Notifications: Displays a success message when the correct credentials are entered, and an error message otherwise.
-3. Basic Android UI Elements: Utilizes Android UI components such as EditText, Button, and Toast.
-
-***Tools & Technologies***
-
-1. Android Studio: Integrated development environment (IDE) used to design and develop the project.
-2. Programming Language: Kotlin (or Java, if used).
-3. Minimum SDK: Android API 27 (Oreo).
-4. Electric Eel 2022.1.1
-
-***Hardcoded Credentials***
-
-Username: admin
-Password: password123
+### <h3>Features</h3>
+- **Hard-coded Credentials** :  A pre-defined username and password are used for authentication.
+- **Toast Notifications** :  Displays a success message when the correct credentials are entered, and an error message otherwise.
+- **Basic Android UI Elements** :  Utilizes Android UI components such as EditText, Button, and Toast.
 
 
-***How It Works***
+### <h3>Tools & Technologies</h3>
+
+- **Android Studio** : Integrated development environment (IDE) used to design and develop the project.
+- **Programming Language** : Kotlin ( or Java, if used).
+- **Minimum SDK** : Android API 27 (Orea)
+- **Electric Eel 2022.1.1**
+
+
+### <h3>Hardcoded Credentials</h3>
+
+**Username:** user
+**Password:** 1234
+
+### <h3>How it works</h3>
 1. The user inputs a username and password in the respective fields.
 2. Upon clicking the login button, the app checks the entered credentials:
 3. If the credentials match the hard-coded values, a success toast notification is displayed.
